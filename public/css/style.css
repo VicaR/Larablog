@@ -1,0 +1,65 @@
+.pdiv>div{
+	overflow: hidden;
+	border: 1px solid grey;
+	box-shadow: 0 0 15px rgba(0,0,0,0.5);
+	padding: 5px
+
+}
+
+#forimg img{
+	height: 400px;
+	margin: 0 auto;
+}
+
+.pdiv{
+	margin: 10px 0;
+}
+.pname{
+	color: #000000;
+	font-size: 130%;
+	text-decoration: none;
+	font-weight: bold;
+	
+}
+
+.pimage{
+	height: 200px;
+	
+}
+
+.pinfo{
+	background-color: #7fffdd;
+	overflow: hidden;
+	color: #000000;
+	font-size: 80%;
+	text-decoration: none;
+	height: 40px
+}
+
+.dpinfo{
+	background-color: #7fffdd;
+	color: #000000;
+	font-size: 100%;
+	text-decoration: none;
+	height: auto;
+}
+
+.pprice{
+
+	color: green;
+	font-size: 150%;
+	font-family: Comic Sans MS;
+		
+}
+
+.dpprice{
+
+	color: blue;
+	font-size: 300%;
+	font-weight: bold;
+		
+}
+
+.pcart{
+	
+}
